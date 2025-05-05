@@ -1,6 +1,5 @@
 'use client';
 import React, { useEffect, useRef, useState } from 'react';
-import { Inter } from 'next/font/google';
 import { Button } from '@/components/button';
 
 export default function BadgeCreator() {
